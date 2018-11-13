@@ -1,2 +1,6 @@
 Fruit  &  vegetables
 --------------------
+
+bananas
+lotus root
+snow peas
